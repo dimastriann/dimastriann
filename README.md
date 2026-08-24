@@ -13,6 +13,8 @@ With a strong foundation in full-stack development and a passion for clean code,
     *   *Stack:* `Rust`, `Tauri`, `React`, `Xterm`
 *   **[Odoo ERP MCP](https://github.com/dimastriann/odoo-erp-mcp)** – Connecting LLMs to Odoo via Model Context Protocol.
     *   *Stack:* `Rust`, `Odoo API`, `JSONRPC`, `Vue`
+*   **[Odoo Server Calculator](https://github.com/dimastriann/odoo-server-calculator)** - A lightweight static web calculator for estimating Odoo server capacity.
+    *   *Stack:* `HTML`, `Javascript`, `CSS`
 
 ### 💻 Full-Stack Applications
 *   **[FinanceFlow](https://github.com/dimastriann/FinanceFlow)** – Personal finance management and expense tracking.
