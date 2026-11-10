@@ -1,6 +1,6 @@
 ## Hi there, I'm Dimas Trian👋
 
-### 👨‍💻 Software Engineer | AI Enthusiast
+### 👨‍💻 Software Engineer | AI Application Engineer
 
 I specialize in building high-performance web applications with modern JavaScript and Python frameworks, especially in Odoo ERP. I enjoy solving complex problems, designing user-friendly interfaces, and delivering efficient, scalable software solutions.
 
